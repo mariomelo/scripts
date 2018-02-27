@@ -1,0 +1,8 @@
+Conflito{
+  a, b, c
+  123
+  }
+
+  cachorro
+  gato
+  ero de digitcao
