@@ -1,8 +1,0 @@
-Conflito{
-  a, 2, c
-  453
-  }
-
-  cavalo
-  gata
-  erro de digitação
